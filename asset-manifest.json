@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/infinitbility-percentage-calculator/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/infinitbility-percentage-calculator/static/js/main.e733aea7.chunk.js",
+    "main.js.map": "/infinitbility-percentage-calculator/static/js/main.e733aea7.chunk.js.map",
+    "runtime-main.js": "/infinitbility-percentage-calculator/static/js/runtime-main.e129e8fb.js",
+    "runtime-main.js.map": "/infinitbility-percentage-calculator/static/js/runtime-main.e129e8fb.js.map",
+    "static/js/2.34eed2e9.chunk.js": "/infinitbility-percentage-calculator/static/js/2.34eed2e9.chunk.js",
+    "static/js/2.34eed2e9.chunk.js.map": "/infinitbility-percentage-calculator/static/js/2.34eed2e9.chunk.js.map",
+    "index.html": "/infinitbility-percentage-calculator/index.html",
+    "precache-manifest.e981f0d2bf292d58dcab51ed0b5976b8.js": "/infinitbility-percentage-calculator/precache-manifest.e981f0d2bf292d58dcab51ed0b5976b8.js",
+    "service-worker.js": "/infinitbility-percentage-calculator/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/infinitbility-percentage-calculator/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.34eed2e9.chunk.js.LICENSE.txt": "/infinitbility-percentage-calculator/static/js/2.34eed2e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e129e8fb.js",
+    "static/js/2.34eed2e9.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.e733aea7.chunk.js"
+  ]
+}
